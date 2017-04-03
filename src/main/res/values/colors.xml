@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tab">#CC0000</color>
+    <color name="expand">#222222</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="status">#990000</color>
+    <color name="submit">#FF6E3F</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="kpf_bg">#51B0D3</color>
+    <color name="kpf_border">#FFBE00</color>
+    <color name="watsapp">#075E54</color>
+    <color name="kpf_bg2">#FFBA00</color>
+    <color name="blood">#FF0000</color>
+</resources>
